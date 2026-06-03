@@ -1,8 +1,7 @@
-# Git 入門
+# Git 入門 を完了しました
 
-@Nishiokakaisei さん、演習を開始しました。
+@Nishiokakaisei さん、演習お疲れさまでした。
 
-手順は次の Issue に投稿されています。
-
-[演習 Issue を開く](https://github.com/Nishiokakaisei/skills-introduction-to-git/issues/1)
+- 演習 Issue: https://github.com/Nishiokakaisei/skills-introduction-to-git/issues/1
+- リポジトリ: https://github.com/Nishiokakaisei/skills-introduction-to-git
 
